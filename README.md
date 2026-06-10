@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**nxcapyone/nxcapyone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python developer with experience in WebKit projects, game development, and tooling. Also familiar with C++ and basic JavaScript.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Python:** Advanced
+- **WebKit / Web Development:** Advanced
+- **C++:** Basic to intermediate
+- **JavaScript:** Intermediate
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=CapyOneYT&show_icons=true&theme=radical)
+
+---
+
+## Contact
+- Discord: capyone
